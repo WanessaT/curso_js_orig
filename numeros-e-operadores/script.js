@@ -18,7 +18,6 @@ console.log(calculo1);
 var incremento = 5;
 incremento++;
 console.log(incremento);
-
 var decremento = 15;
 decremento--;
 console.log(decremento);
